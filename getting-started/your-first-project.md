@@ -138,14 +138,14 @@ If you'd like to skip ahead and see a fully configured project, download our sam
 
 Now that you have a working project, you can check out:
 
-{% content-ref url="../guides/sklepy-i-skupy.md" %}
-[sklepy-i-skupy.md](../guides/sklepy-i-skupy.md)
+{% content-ref url="../core-concepts/sklepy-i-skupy.md" %}
+[sklepy-i-skupy.md](../core-concepts/sklepy-i-skupy.md)
 {% endcontent-ref %}
 
 {% content-ref url="../guides/gotowanie.md" %}
 [gotowanie.md](../guides/gotowanie.md)
 {% endcontent-ref %}
 
-{% content-ref url="../core-concepts/rangi.md" %}
-[rangi.md](../core-concepts/rangi.md)
+{% content-ref url="../core-concepts/rangi/" %}
+[rangi](../core-concepts/rangi/)
 {% endcontent-ref %}

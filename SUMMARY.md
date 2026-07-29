@@ -10,14 +10,17 @@
 
 ## Core concepts
 
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [⭐ Rangi](core-concepts/rangi.md)
+* [🏡 Działki](core-concepts/dzialki.md)
+* [🛒 Sklepy i Skupy](core-concepts/sklepy-i-skupy.md)
+* [Zadania](core-concepts/zadania.md)
+* [Umiejętności](core-concepts/umiejetnosci.md)
+* [⭐ Rangi](core-concepts/rangi/README.md)
+  * [VIP](core-concepts/rangi/vip.md)
+  * [SVIP](core-concepts/rangi/svip.md)
+  * [MVIP](core-concepts/rangi/mvip.md)
 
 ## Guides
 
-* [🏡 Działki](guides/dzialki.md)
-* [🛒 Sklepy i Skupy](guides/sklepy-i-skupy.md)
 * [🧑‍🍳 Gotowanie](guides/gotowanie.md)
 * [🚗 Pojazdy](guides/pojazdy.md)
 * [🪑 Meble](guides/meble.md)

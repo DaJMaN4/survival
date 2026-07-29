@@ -3,7 +3,7 @@ description: How workspaces and projects fit together, and when to create which.
 icon: sitemap
 ---
 
-# Workspaces and projects
+# Zadania
 
 Workspaces and projects are the two containers that organise everything on the platform. Understanding the relationship between them makes the rest of the product much easier to navigate.
 
@@ -82,8 +82,8 @@ Use **one project with multiple environments** when:
 
 ## Related
 
-{% content-ref url="rangi.md" %}
-[rangi.md](rangi.md)
+{% content-ref url="rangi/" %}
+[rangi](rangi/)
 {% endcontent-ref %}
 
 {% content-ref url="../wymiary/nether/" %}
