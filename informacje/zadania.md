@@ -1,9 +1,8 @@
 ---
 description: How workspaces and projects fit together, and when to create which.
-icon: sitemap
 ---
 
-# Zadania
+# 📑 Zadania
 
 Workspaces and projects are the two containers that organise everything on the platform. Understanding the relationship between them makes the rest of the product much easier to navigate.
 

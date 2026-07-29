@@ -76,14 +76,14 @@ First builds typically take 1–3 minutes. Subsequent builds are faster because 
 
 You've shipped something — now make it yours.
 
-{% content-ref url="../core-concepts/sklepy-i-skupy.md" %}
-[sklepy-i-skupy.md](../core-concepts/sklepy-i-skupy.md)
+{% content-ref url="../informacje/sklepy-i-skupy.md" %}
+[sklepy-i-skupy.md](../informacje/sklepy-i-skupy.md)
 {% endcontent-ref %}
 
-{% content-ref url="../core-concepts/rangi/" %}
-[rangi](../core-concepts/rangi/)
+{% content-ref url="../informacje/rangi/" %}
+[rangi](../informacje/rangi/)
 {% endcontent-ref %}
 
-{% content-ref url="../guides/gotowanie.md" %}
-[gotowanie.md](../guides/gotowanie.md)
+{% content-ref url="../dodatki/gotowanie.md" %}
+[gotowanie.md](../dodatki/gotowanie.md)
 {% endcontent-ref %}

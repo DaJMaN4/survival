@@ -1,31 +1,30 @@
 # Table of contents
 
+## Jak grac?
+
 * [👋 Witaj](README.md)
+* [Getting started](jak-grac/getting-started.md)
+* [Quickstart](jak-grac/quickstart.md)
+* [Your first project](jak-grac/your-first-project.md)
 
-## Getting Started
+## Informacje
 
-* [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
-* [Your first project](getting-started/your-first-project.md)
+* [🏡 Działki](informacje/dzialki.md)
+* [📑 Zadania](informacje/zadania.md)
+* [🛒 Sklepy i Skupy](informacje/sklepy-i-skupy.md)
+* [🏃 Umiejętności](informacje/umiejetnosci.md)
+* [⭐ Rangi](informacje/rangi/README.md)
+  * [VIP](informacje/rangi/vip.md)
+  * [SVIP](informacje/rangi/svip.md)
+  * [MVIP](informacje/rangi/mvip.md)
 
-## Core concepts
+## Dodatki
 
-* [🏡 Działki](core-concepts/dzialki.md)
-* [🛒 Sklepy i Skupy](core-concepts/sklepy-i-skupy.md)
-* [Zadania](core-concepts/zadania.md)
-* [Umiejętności](core-concepts/umiejetnosci.md)
-* [⭐ Rangi](core-concepts/rangi/README.md)
-  * [VIP](core-concepts/rangi/vip.md)
-  * [SVIP](core-concepts/rangi/svip.md)
-  * [MVIP](core-concepts/rangi/mvip.md)
-
-## Guides
-
-* [🧑‍🍳 Gotowanie](guides/gotowanie.md)
-* [🚗 Pojazdy](guides/pojazdy.md)
-* [🪑 Meble](guides/meble.md)
-* [🦋 Insekty](guides/insekty.md)
-* [⚒️ Przedmioty](guides/przedmioty.md)
+* [⚒️ Przedmioty](dodatki/przedmioty.md)
+* [🪑 Meble](dodatki/meble.md)
+* [🚗 Pojazdy](dodatki/pojazdy.md)
+* [🧑‍🍳 Gotowanie](dodatki/gotowanie.md)
+* [🦋 Insekty](dodatki/insekty.md)
 
 ## Wymiary
 

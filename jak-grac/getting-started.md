@@ -18,6 +18,6 @@ Before you start, make sure you have:
 * [x] A few minutes of uninterrupted time
 
 {% hint style="info" %}
-If you're evaluating the platform for your team rather than yourself, jump to [Core concepts](https://app.gitbook.com/s/4mlKc8UyzRL9kCRXw7Zi/core-concepts "mention") first — it'll save time when you set things up properly.
+If you're evaluating the platform for your team rather than yourself, jump to [Informacje](https://app.gitbook.com/s/4mlKc8UyzRL9kCRXw7Zi/informacje "mention") first — it'll save time when you set things up properly.
 {% endhint %}
 

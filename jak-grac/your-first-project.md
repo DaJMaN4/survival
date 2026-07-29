@@ -125,7 +125,7 @@ Push to your main branch (or click **Deploy** manually). The platform will:
 5. Promote to your live URL
 
 {% hint style="success" %}
-You'll get a notification when the build completes — by email, Slack, or whatever you configured under [gotowanie.md](../guides/gotowanie.md "mention").
+You'll get a notification when the build completes — by email, Slack, or whatever you configured under [gotowanie.md](../dodatki/gotowanie.md "mention").
 {% endhint %}
 
 ## Sample project
@@ -138,14 +138,14 @@ If you'd like to skip ahead and see a fully configured project, download our sam
 
 Now that you have a working project, you can check out:
 
-{% content-ref url="../core-concepts/sklepy-i-skupy.md" %}
-[sklepy-i-skupy.md](../core-concepts/sklepy-i-skupy.md)
+{% content-ref url="../informacje/sklepy-i-skupy.md" %}
+[sklepy-i-skupy.md](../informacje/sklepy-i-skupy.md)
 {% endcontent-ref %}
 
-{% content-ref url="../guides/gotowanie.md" %}
-[gotowanie.md](../guides/gotowanie.md)
+{% content-ref url="../dodatki/gotowanie.md" %}
+[gotowanie.md](../dodatki/gotowanie.md)
 {% endcontent-ref %}
 
-{% content-ref url="../core-concepts/rangi/" %}
-[rangi](../core-concepts/rangi/)
+{% content-ref url="../informacje/rangi/" %}
+[rangi](../informacje/rangi/)
 {% endcontent-ref %}
