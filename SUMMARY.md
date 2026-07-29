@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Witaj](README.md)
+* [👋 Witaj](README.md)
 
 ## Getting Started
 
@@ -12,17 +12,17 @@
 
 * [Core concepts](core-concepts/core-concepts.md)
 * [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Rangi](core-concepts/rangi.md)
+* [⭐ Rangi](core-concepts/rangi.md)
 
 ## Guides
 
-* [Działki](guides/dzialki.md)
-* [Sklepy i Skupy](guides/sklepy-i-skupy.md)
-* [Gotowanie](guides/gotowanie.md)
-* [Pojazdy](guides/pojazdy.md)
-* [Meble](guides/meble.md)
-* [Insekty](guides/insekty.md)
-* [Przedmioty](guides/przedmioty.md)
+* [🏡 Działki](guides/dzialki.md)
+* [🛒 Sklepy i Skupy](guides/sklepy-i-skupy.md)
+* [🧑‍🍳 Gotowanie](guides/gotowanie.md)
+* [🚗 Pojazdy](guides/pojazdy.md)
+* [🪑 Meble](guides/meble.md)
+* [🦋 Insekty](guides/insekty.md)
+* [⚒️ Przedmioty](guides/przedmioty.md)
 
 ## Wymiary
 

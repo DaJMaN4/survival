@@ -2,10 +2,9 @@
 description: >-
   Replace your auto-generated subdomain with your own domain, with automatic
   SSL.
-icon: globe
 ---
 
-# Custom domains
+# 🛒 Sklepy i Skupy
 
 By default, every project is published at a subdomain of the platform. You can replace this with your own domain on any paid plan.
 

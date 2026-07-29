@@ -1,8 +1,4 @@
----
-icon: graduation-cap
----
-
-# Guides
+# 🏡 Działki
 
 Practical walkthroughs for getting things done. Each guide is self-contained — pick the one that matches what you're trying to do.
 
