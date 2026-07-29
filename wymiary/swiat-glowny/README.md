@@ -1,8 +1,4 @@
----
-icon: book-open
----
-
-# Reference
+# 🌍 Świat Główny
 
 Detailed reference material for when you need to look something up rather than learn how to do it.
 

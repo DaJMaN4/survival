@@ -1,9 +1,8 @@
 ---
 description: Definitions of terms you'll encounter in the docs and dashboard.
-icon: bookmark
 ---
 
-# Kres
+# 👾 Kres
 
 Plain-language definitions of terms used across the platform. Click any entry to expand it.
 
@@ -15,7 +14,7 @@ Plain-language definitions of terms used across the platform. Click any entry to
 
 <summary><strong>API key</strong></summary>
 
-A secret token that authenticates requests to the platform's API. Keys are scoped to a workspace and inherit the permissions of whoever created them. See [rangi.md](../core-concepts/rangi.md "mention").
+A secret token that authenticates requests to the platform's API. Keys are scoped to a workspace and inherit the permissions of whoever created them. See [rangi.md](../../core-concepts/rangi.md "mention").
 
 </details>
 
@@ -23,7 +22,7 @@ A secret token that authenticates requests to the platform's API. Keys are scope
 
 <summary><strong>Automation</strong></summary>
 
-A piece of code that runs in response to a trigger — for example, a deploy completing or a comment being posted. See [gotowanie.md](../guides/gotowanie.md "mention").
+A piece of code that runs in response to a trigger — for example, a deploy completing or a comment being posted. See [gotowanie.md](../../guides/gotowanie.md "mention").
 
 </details>
 
@@ -39,7 +38,7 @@ The process of turning your source code into deployable output. Each build produ
 
 <summary><strong>Custom domain</strong></summary>
 
-Your own domain (like `docs.yourcompany.com`) attached to a project, in place of the auto-generated subdomain. See [sklepy-i-skupy.md](../guides/sklepy-i-skupy.md "mention").
+Your own domain (like `docs.yourcompany.com`) attached to a project, in place of the auto-generated subdomain. See [sklepy-i-skupy.md](../../guides/sklepy-i-skupy.md "mention").
 
 </details>
 
@@ -67,7 +66,7 @@ The set of variables, secrets, and configuration that applies when your project 
 
 <summary><strong>Guest</strong></summary>
 
-A workspace role that can view published deploys but nothing else. Guests don't count towards your member limit. See [rangi.md](../core-concepts/rangi.md "mention").
+A workspace role that can view published deploys but nothing else. Guests don't count towards your member limit. See [rangi.md](../../core-concepts/rangi.md "mention").
 
 </details>
 
@@ -91,7 +90,7 @@ A deploy created automatically for a branch or pull request, served at a unique 
 
 <summary><strong>Project</strong></summary>
 
-A deployable unit. Each project has its own source, builds, deploys, environment, and domains. Projects are isolated from each other within a workspace. See [workspaces-and-projects.md](../core-concepts/workspaces-and-projects.md "mention").
+A deployable unit. Each project has its own source, builds, deploys, environment, and domains. Projects are isolated from each other within a workspace. See [workspaces-and-projects.md](../../core-concepts/workspaces-and-projects.md "mention").
 
 </details>
 
@@ -103,7 +102,7 @@ A deployable unit. Each project has its own source, builds, deploys, environment
 
 <summary><strong>Role</strong></summary>
 
-A workspace-level designation that determines what a member can do. Roles are: Guest, Viewer, Reviewer, Editor, and Admin. See [rangi.md](../core-concepts/rangi.md "mention").
+A workspace-level designation that determines what a member can do. Roles are: Guest, Viewer, Reviewer, Editor, and Admin. See [rangi.md](../../core-concepts/rangi.md "mention").
 
 </details>
 
@@ -127,7 +126,7 @@ Single sign-on. Lets your team authenticate with your identity provider (Okta, A
 
 <summary><strong>Trigger</strong></summary>
 
-The event that starts an automation — for example, `deploy.succeeded` or `webhook.received`. See [gotowanie.md](../guides/gotowanie.md "mention").
+The event that starts an automation — for example, `deploy.succeeded` or `webhook.received`. See [gotowanie.md](../../guides/gotowanie.md "mention").
 
 </details>
 
@@ -135,7 +134,7 @@ The event that starts an automation — for example, `deploy.succeeded` or `webh
 
 <summary><strong>Workspace</strong></summary>
 
-The top-level container for a team's work. Owns billing, members, and projects. See [workspaces-and-projects.md](../core-concepts/workspaces-and-projects.md "mention").
+The top-level container for a team's work. Owns billing, members, and projects. See [workspaces-and-projects.md](../../core-concepts/workspaces-and-projects.md "mention").
 
 </details>
 

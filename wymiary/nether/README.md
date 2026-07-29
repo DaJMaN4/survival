@@ -1,8 +1,4 @@
----
-icon: sliders
----
-
-# Configuration
+# 🔥 Nether
 
 The `platform.yaml` file at the root of your project controls how it builds and deploys. Most fields are optional — sensible defaults are chosen based on framework auto-detection.
 

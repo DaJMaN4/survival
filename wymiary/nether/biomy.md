@@ -1,2 +1,2 @@
-# Biomy
+# 🌋 Biomy
 
