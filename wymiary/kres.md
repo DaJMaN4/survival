@@ -3,7 +3,7 @@ description: Definitions of terms you'll encounter in the docs and dashboard.
 icon: bookmark
 ---
 
-# Glossary
+# Kres
 
 Plain-language definitions of terms used across the platform. Click any entry to expand it.
 
@@ -23,7 +23,7 @@ A secret token that authenticates requests to the platform's API. Keys are scope
 
 <summary><strong>Automation</strong></summary>
 
-A piece of code that runs in response to a trigger — for example, a deploy completing or a comment being posted. See [automations.md](../guides/automations.md "mention").
+A piece of code that runs in response to a trigger — for example, a deploy completing or a comment being posted. See [gotowanie.md](../guides/gotowanie.md "mention").
 
 </details>
 
@@ -39,7 +39,7 @@ The process of turning your source code into deployable output. Each build produ
 
 <summary><strong>Custom domain</strong></summary>
 
-Your own domain (like `docs.yourcompany.com`) attached to a project, in place of the auto-generated subdomain. See [custom-domains.md](../guides/custom-domains.md "mention").
+Your own domain (like `docs.yourcompany.com`) attached to a project, in place of the auto-generated subdomain. See [sklepy-i-skupy.md](../guides/sklepy-i-skupy.md "mention").
 
 </details>
 
@@ -127,7 +127,7 @@ Single sign-on. Lets your team authenticate with your identity provider (Okta, A
 
 <summary><strong>Trigger</strong></summary>
 
-The event that starts an automation — for example, `deploy.succeeded` or `webhook.received`. See [automations.md](../guides/automations.md "mention").
+The event that starts an automation — for example, `deploy.succeeded` or `webhook.received`. See [gotowanie.md](../guides/gotowanie.md "mention").
 
 </details>
 

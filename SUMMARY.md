@@ -16,13 +16,24 @@
 
 ## Guides
 
-* [Guides](guides/guides.md)
-* [Custom domains](guides/custom-domains.md)
-* [Automations](guides/automations.md)
+* [Działki](guides/dzialki.md)
+* [Sklepy i Skupy](guides/sklepy-i-skupy.md)
+* [Gotowanie](guides/gotowanie.md)
+* [Pojazdy](guides/pojazdy.md)
+* [Meble](guides/meble.md)
+* [Insekty](guides/insekty.md)
+* [Przedmioty](guides/przedmioty.md)
 
 ## Wymiary
 
-* [Reference](wymiary/reference.md)
+* [Świat Główny](wymiary/swiat-glowny/README.md)
+  * [Struktury](wymiary/swiat-glowny/struktury.md)
+  * [Potwory](wymiary/swiat-glowny/potwory.md)
+  * [Zwierzęta](wymiary/swiat-glowny/zwierzeta.md)
+  * [Biomy](wymiary/swiat-glowny/biomy.md)
 * [Nether](wymiary/nether/README.md)
+  * [Przedmioty](wymiary/nether/przedmioty.md)
+  * [Struktury](wymiary/nether/struktury.md)
   * [Potwory](wymiary/nether/potwory.md)
+  * [Biomy](wymiary/nether/biomy.md)
 * [Kres](wymiary/kres.md)
