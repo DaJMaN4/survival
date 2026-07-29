@@ -86,6 +86,6 @@ Use **one project with multiple environments** when:
 [rangi.md](rangi.md)
 {% endcontent-ref %}
 
-{% content-ref url="../reference/configuration.md" %}
-[configuration.md](../reference/configuration.md)
+{% content-ref url="../wymiary/nether/" %}
+[nether](../wymiary/nether/)
 {% endcontent-ref %}

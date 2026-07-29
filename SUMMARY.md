@@ -20,8 +20,9 @@
 * [Custom domains](guides/custom-domains.md)
 * [Automations](guides/automations.md)
 
-## Reference
+## Wymiary
 
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
+* [Reference](wymiary/reference.md)
+* [Nether](wymiary/nether/README.md)
+  * [Potwory](wymiary/nether/potwory.md)
+* [Kres](wymiary/kres.md)
