@@ -146,6 +146,6 @@ Now that you have a working project, you can check out:
 [automations.md](../guides/automations.md)
 {% endcontent-ref %}
 
-{% content-ref url="../core-concepts/permissions.md" %}
-[permissions.md](../core-concepts/permissions.md)
+{% content-ref url="../core-concepts/rangi.md" %}
+[rangi.md](../core-concepts/rangi.md)
 {% endcontent-ref %}

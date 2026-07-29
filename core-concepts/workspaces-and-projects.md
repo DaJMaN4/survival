@@ -82,8 +82,8 @@ Use **one project with multiple environments** when:
 
 ## Related
 
-{% content-ref url="permissions.md" %}
-[permissions.md](permissions.md)
+{% content-ref url="rangi.md" %}
+[rangi.md](rangi.md)
 {% endcontent-ref %}
 
 {% content-ref url="../reference/configuration.md" %}

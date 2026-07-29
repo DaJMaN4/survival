@@ -80,8 +80,8 @@ You've shipped something — now make it yours.
 [custom-domains.md](../guides/custom-domains.md)
 {% endcontent-ref %}
 
-{% content-ref url="../core-concepts/permissions.md" %}
-[permissions.md](../core-concepts/permissions.md)
+{% content-ref url="../core-concepts/rangi.md" %}
+[rangi.md](../core-concepts/rangi.md)
 {% endcontent-ref %}
 
 {% content-ref url="../guides/automations.md" %}

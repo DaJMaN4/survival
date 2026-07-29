@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Witaj](README.md)
 
 ## Getting Started
 
@@ -12,7 +12,7 @@
 
 * [Core concepts](core-concepts/core-concepts.md)
 * [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
+* [Rangi](core-concepts/rangi.md)
 
 ## Guides
 
